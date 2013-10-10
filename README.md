@@ -38,3 +38,7 @@ ok
 [{included_applications,[]},{my_test_key,my_test_value}]
 5> 
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/nevar/sys_test/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
